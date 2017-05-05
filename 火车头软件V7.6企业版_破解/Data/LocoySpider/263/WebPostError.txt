@@ -1,0 +1,16 @@
+ID:251
+网址:http://toutiao.com/a6302669662874468610/
+Header:HTTP/1.1 200 OK
+Cache-Control:no-store
+Pragma:no-cache
+Content-Type:text/html; Charset=gb2312
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Server:Microsoft-IIS/7.5
+X-Powered-By:WAF/2.0
+Date:Sun, 03 Jul 2016 09:04:19 GMT
+Connection:close
+Content-Length:446
+
+源代码:<html><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><meta http-equiv="pragma" content="no-cache" /><meta http-equiv="cache-control" content="no-store" /><meta http-equiv="Connection" content="Close" /><script>function JumpSelf(){	self.location="/e/admin/e/admin/EcmsLogin.php?pw=RqlYDl2j&WebShieldSessionVerify=Uwfx05ccDlTjMvlMH0dG";}</script><script>setTimeout("JumpSelf()",700);</script></head><body></body></html>
+========分隔线=======
