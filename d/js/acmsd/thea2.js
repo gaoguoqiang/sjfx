@@ -1,1 +1,0 @@
-document.write("<div style=\"width:298px;height:248px;overflow:hidden;margin:auto;border:1px red dashed;text-align:center;\">¹ã¸æid1-300x250</div>")

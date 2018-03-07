@@ -1,1 +1,0 @@
-document.write("<option value=6>|-FLASH∆µµ¿</option><option value=50 style=\'background:#99C4E3\'>&nbsp;&nbsp;|-”Œœ∑</option><option value=51 style=\'background:#99C4E3\'>&nbsp;&nbsp;|-“Ù¿÷MV</option>");
